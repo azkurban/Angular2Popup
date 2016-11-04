@@ -1,3 +1,4 @@
-# Angular2Popup
-Modal popup supporting multiple popups stack on top of each other.  Drag able to see parent under neath information 
-Demo: https://embed.plnkr.co/J1WE6G
+### Angular Documentation Example 
+
+Angulalar 2 modal popup. It is dragble to see parent page information
+Support multiple popup one stack up on top of other
